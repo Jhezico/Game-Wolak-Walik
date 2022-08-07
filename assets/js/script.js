@@ -25,7 +25,7 @@ function matchCards(img1, img2) {
     if (matchedCard == 8) {
       setTimeout(() => {
         Swal.fire({
-          title: 'Are you sure?',
+          title: 'YeYe',
           text: "Selamat kamu berhasil, ingin bermain lagi?",
           icon: 'success',
           showCancelButton: true,
