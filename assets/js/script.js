@@ -27,7 +27,7 @@ function matchCards(img1, img2) {
         Swal.fire({
           title: 'Are you sure?',
           text: "Selamat kamu berhasil, ingin bermain lagi?",
-          icon: 'warning',
+          icon: 'success',
           showCancelButton: true,
           confirmButtonColor: '#FF5733',
           cancelButtonColor: '#3374ff',
